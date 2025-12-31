@@ -1,0 +1,24 @@
+programa orientado a objetos
+
+vai ter a classe calculadora que tem como métodos básicos:
+
+somar()
+subtrair()
+multiplicar()
+dividir()
+igualar()
+mostrarNaTela()
+limpar()
+
+entrada:
+
+1) usuario digita o primeiro numero
+- primeiro numero deve ser guardado numa variável
+
+2) usuario clica no botão da operação que deseja efetuar
+- esse botão tem que entender que o usuario ja digitou o primeiro e assim passar para a próxima variável
+
+3) usuario digita o segundo numero
+- assim é liberada essa segunda variável que vai guardar o segundo numero
+
+4) usuario clica em igualar e exibe o resultado
