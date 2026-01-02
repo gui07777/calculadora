@@ -11,12 +11,12 @@ class Calculadora {
             })
         });
 
-        this.number2 = document.querySelectorAll('.number').forEach(n => {
-            n.addEventListener('click', () => {
-                this.selectedNumber = n.textContent;
-                this.screen.innerText += `${this.selectedNumber}`;
-            })
-        });
+        // this.number2 = document.querySelectorAll('.number').forEach(n => {
+        //     n.addEventListener('click', () => {
+        //         this.selectedNumber = n.textContent;
+        //         this.screen.innerText += `${this.selectedNumber}`;
+        //     })
+        // });
 
         this.symbol = document.querySelectorAll('.symbol').forEach(s => {
             s.addEventListener('click', () => {
