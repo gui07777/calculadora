@@ -44,6 +44,10 @@ class Calculadora {
         this.result = this.number1 / this.number2;
     }
 
+    exibir() {
+        this.screen.textContent = 
+    }
+
 }
 
 const calculadora = new Calculadora();
