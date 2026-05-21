@@ -52,4 +52,5 @@ main div {
     align-items: center;
     font-size: 2rem;
     border-radius: 10px;
+    cursor: pointer
 }
